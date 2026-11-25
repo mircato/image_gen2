@@ -4,9 +4,9 @@
 mask: `masks/MAR.png` → save as `in/MAR.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Morocco's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Morocco as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Morocco on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -15,9 +15,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/SAH.png` → save as `in/SAH.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Western Sahara's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Western Sahara as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Western Sahara on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -26,9 +26,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/DZA.png` → save as `in/DZA.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Algeria's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Algeria as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Algeria on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -37,9 +37,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/TUN.png` → save as `in/TUN.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Tunisia's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Tunisia as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Tunisia on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -48,9 +48,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/LBY.png` → save as `in/LBY.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Libya's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Libya as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Libya on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -59,9 +59,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/EGY.png` → save as `in/EGY.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Egypt's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Egypt as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Egypt on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -70,9 +70,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/SDN.png` → save as `in/SDN.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Sudan's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Sudan as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Sudan on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -81,31 +81,31 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/MRT.png` → save as `in/MRT.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Mauritania's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Mauritania as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Mauritania on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
 
-## PSE — فلسطين (Israel)
+## PSE — فلسطين (Palestine)
 mask: `masks/PSE.png` → save as `in/PSE.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Israel's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Palestine as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
-THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Israel on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
+THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Palestine on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
 
 ## JOR — الأردن (Jordan)
 mask: `masks/JOR.png` → save as `in/JOR.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Jordan's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Jordan as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Jordan on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -114,9 +114,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/LBN.png` → save as `in/LBN.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Lebanon's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Lebanon as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Lebanon on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -125,9 +125,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/SYR.png` → save as `in/SYR.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Syria's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Syria as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Syria on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -136,9 +136,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/IRQ.png` → save as `in/IRQ.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Iraq's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Iraq as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Iraq on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -147,9 +147,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/KWT.png` → save as `in/KWT.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Kuwait's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Kuwait as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Kuwait on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -158,9 +158,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/SAU.png` → save as `in/SAU.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Saudi Arabia's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Saudi Arabia as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Saudi Arabia on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -169,9 +169,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/BHR.png` → save as `in/BHR.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Bahrain's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Bahrain as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Bahrain on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -180,9 +180,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/QAT.png` → save as `in/QAT.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Qatar's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Qatar as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Qatar on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -191,9 +191,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/ARE.png` → save as `in/ARE.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-United Arab Emirates's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+United Arab Emirates as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of United Arab Emirates on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -202,9 +202,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/OMN.png` → save as `in/OMN.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Oman's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Oman as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Oman on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -213,9 +213,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/YEM.png` → save as `in/YEM.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Yemen's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Yemen as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Yemen on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -224,9 +224,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/IRN.png` → save as `in/IRN.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Iran's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Iran as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Iran on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -235,9 +235,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/TUR.png` → save as `in/TUR.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Turkey's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Turkey as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Turkey on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -246,9 +246,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/CYP.png` → save as `in/CYP.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Cyprus's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Cyprus as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Cyprus on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -257,9 +257,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/DJI.png` → save as `in/DJI.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Djibouti's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Djibouti as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Djibouti on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
@@ -268,9 +268,9 @@ THE SHAPE (most important): the attached image is a black SILHOUETTE on white --
 mask: `masks/SOM.png` → save as `in/SOM.png`
 
 ```
-Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
+Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Soft even light.
 
-Somalia's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Somalia as a painted picture-map: its most famous landmarks and monuments, its traditional life (people in local dress, its typical animals, boats, markets) and its real nature (deserts, mountains, rivers, green farmland, coasts) -- each one at its REAL place inside the country, big and clear, filling the whole shape.
 
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Somalia on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```

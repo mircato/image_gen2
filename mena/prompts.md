@@ -88,15 +88,15 @@ Mauritania's land seen from above as a painted map-picture: its real nature -- d
 THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Mauritania on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
 
-## PSE — فلسطين (Israel)
+## PSE — فلسطين (Palestine)
 mask: `masks/PSE.png` → save as `in/PSE.png`
 
 ```
 Every country of this world map is made the same way, so they sit side by side as one collage: hand-cut paper collage, printed and engraved paper textures, torn paper edges, a little halftone; one shared palette -- warm sand ochres and golds for deserts, olive, palm and leaf greens for farmland and forests, terracotta and umber for mountains, white for snow, teal and turquoise for rivers, lakes and coasts. Seen from straight above like a map, soft even light.
 
-Israel's land seen from above as a painted map-picture: its real nature -- deserts, mountains, forests, farmland, rivers, oases, coasts -- each where it really is inside the country. Nature only, no buildings, no people, no animals.
+Palestine's land seen from above as a painted map-picture: its real nature -- Mediterranean coast, olive groves, terraced hills, farmland, rivers, oases, and the Jordan Valley -- each where it really is inside Palestine. Include Palestinian heritage in its real setting: a small recognizable top-down view of Jerusalem's Al-Aqsa Mosque compound with the Dome of the Rock, integrated into the landscape. Nature and heritage only, no crowds, no vehicles, no labels, no other buildings.
 
-THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Israel on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like the country's picture cut out in the shape of its map. Put every part of the land where it really is in the country (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
+THE SHAPE (most important): the attached image is a black SILHOUETTE on white -- the exact outline of Palestine on the map, north up. Generate ONE 1:1 square image (1024x1024) in which this artwork FILLS EXACTLY that silhouette: the same shape, the same position and the same size as the black area, reaching right to its edges, like Palestine's picture cut out in the shape of its map. Put every part of the land and every heritage detail where it really is in Palestine (the silhouette is a true map). Everything OUTSIDE the silhouette is flat uniform magenta (#FF00FF). No outline drawn, no text, no labels, no map pins, no shadow.
 ```
 
 ## JOR — الأردن (Jordan)

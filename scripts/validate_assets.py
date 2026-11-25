@@ -149,6 +149,20 @@ def validate_prompt_index(root: Path, manifest: list[dict[str, Any]], errors: li
     for iso in expected_isos:
         if f"mask: `masks/{iso}.png` → save as `in/{iso}.png`" not in index:
             add_error(errors, f"prompts.md is missing the mask instruction for {iso}")
+            continue
+
+        section = re.search(
+            rf"^## {iso} —.*?\nmask: `masks/{iso}\.png` → save as `in/{iso}\.png`\n\n```\n(.*?)\n```",
+            index,
+            flags=re.MULTILINE | re.DOTALL,
+        )
+        prompt_path = root / "prompts" / f"{iso}.txt"
+        if not section or not prompt_path.exists():
+            continue
+        indexed_prompt = section.group(1).strip()
+        file_prompt = prompt_path.read_text(encoding="utf-8").strip()
+        if indexed_prompt != file_prompt:
+            add_error(errors, f"prompts.md prompt for {iso} differs from prompts/{iso}.txt")
 
 
 def validate(root: Path) -> list[str]:
